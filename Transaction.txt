@@ -1,0 +1,13 @@
+Baked Beans per tin,2.0,0.7,8.0
+Sugar per packet,3.0,2.25,17.0
+Baked Beans per tin,3.0,1.0499999999999998,7.0
+Sugar per packet,2.0,2.55,18.0
+Baked Beans per tin,6.0,2.0999999999999996,4.0
+Bread per loaf,6.0,9.6,4.0
+Baked Beans per tin,2.0,0.7,8.0
+Baked Beans per tin,1.0,0.35,9.0
+Instant Coffee,5.0,12.85,7.0
+Baked Beans per tin,1.0,0.35,9.0
+Sugar per packet,3.0,2.6,17.0
+Baked Beans per tin,2.0,0.7,8.0
+Sugar per packet,3.0,2.95,17.0
