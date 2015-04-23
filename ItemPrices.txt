@@ -1,0 +1,10 @@
+Baked Beans per tin, 0.35, 10
+CornFlakes per packet, 1.75, 10
+Sugar per packet, 0.75, 20
+Tea Bags per packet, 1.15, 15
+Instant Coffee, 2.50, 12
+Bread per loaf, 1.25, 10
+Sausages per packet, 1.30, 10
+Eggs per half dozen, 0.75, 12
+Milk per carton, 0.65, 13
+Potatoes per kg bag, 2.00, 23
